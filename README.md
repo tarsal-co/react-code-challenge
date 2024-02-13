@@ -58,7 +58,7 @@ There is no deadline for submission.  We understand that we all have lives, so p
 
 You may use any tools available to you to complete the challenge.  This includes using AI-assisted development.  However the application should work, bug free, when first visited by our reviewing team.  
 
-When you are ready to sumbit, please email the link to your application to your hiring contact at Tarsal.  If the application code is obfuscated, then please also email a link to a public repository or a .zip file of your code as well.
+When you are ready to submit, please email the link to your application to your hiring contact at Tarsal.  If the application code is obfuscated, then please also email a link to a public repository or a .zip file of your code as well.
 
 Once the application has been vetted as working, your code will be passed around the team for a blind code review.  After the code review has been completed then the hiring managers will inform you of their decision.
 
