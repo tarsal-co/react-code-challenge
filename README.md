@@ -33,7 +33,7 @@ The [NOAA API Documentation](https://api.tidesandcurrents.noaa.gov/api/prod/) ma
 
 You must do/use the following:
 1. Use the live dataset of Water Levels from NOAA as your REST-based JSON API.
-1. Fetch the data asynchronously, but only 1 time 
+1. Fetch the data asynchronously
 1. Use React Functional Components
 1. Use React Hooks
 1. Use an application state manager  e.g. [data-client](https://github.com/reactive/data-client), [Redux](https://redux.js.org/), [Redux-Saga](https://redux-saga.js.org/), [React Context](https://react.dev/learn/passing-data-deeply-with-context), etc.
@@ -49,7 +49,7 @@ You must do/use the following:
 
 1. Code & application are visible online.  e.g. in [codesandbox](codesandbox.io) or [codepen](codepen.io), etc. 
    1. You can use this template as a starting point: [React - CodeSandbox](https://codesandbox.io/s/react-new) 
-1. Data is loaded dynamically, but only 1 time, from NOAA
+1. Data is loaded dynamically from NOAA
 1. Interactive Charts allowing the ability to filter by units and from/to date controls
 
 ## Delivery
