@@ -62,4 +62,4 @@ When you are ready to submit, please email the link to your application to your 
 
 Once the application has been vetted as working, your code will be passed around the team for a blind code review.  After the code review has been completed then the hiring managers will inform you of their decision.
 
-Thanks it!  We appreciate your interest in working at Tarsal and for taking the time to perform this coding challenge.  
+That's it!  We appreciate your interest in working at Tarsal and for taking the time to perform this coding challenge.  
