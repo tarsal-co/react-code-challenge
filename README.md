@@ -2,6 +2,8 @@
 
 Congratulations on making it to the coding challenge portion of the interview process!  This coding challenge was created by our front-end engineering team, and exercises some of the React technology and principles which we use in our codebase.
 
+We believe this is a much more effective way at evaluating candidates over writing code on a whiteboard in a meeting room or responding to l33t coding questions in a zoom call.
+
 We recommend you to block ~2 hours of your time to complete it.
 
 ## Challenge:
@@ -49,3 +51,15 @@ You must do/use the following:
    1. You can use this template as a starting point: [React - CodeSandbox](https://codesandbox.io/s/react-new) 
 1. Data is loaded dynamically, but only 1 time, from NOAA
 1. Interactive Charts allowing the ability to filter by units and from/to date controls
+
+## Delivery
+
+There is no deadline for submission.  We understand that we all have lives, so please don't be stressed about completing this challenge within a day or two.  While delivery time is not a requirement in this challenge, it may be used should we need to make a decision between two viable candidates.
+
+You may use any tools available to you to complete the challenge.  This includes using AI-assisted development.  However the application should work, bug free, when first visited by our reviewing team.  
+
+When you are ready to sumbit, please email the link to your application to your hiring contact at Tarsal.  If the application code is obfuscated, then please also email a link to a public repository or a .zip file of your code as well.
+
+Once the application has been vetted as working, your code will be passed around the team for a blind code review.  After the code review has been completed then the hiring managers will inform you of their decision.
+
+Thanks it!  We appreciate your interest in working at Tarsal and for taking the time to perform this coding challenge.  
